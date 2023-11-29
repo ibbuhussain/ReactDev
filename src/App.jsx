@@ -42,7 +42,7 @@ export default function App() {
           return { ...tODO, completed }
         }
 
-        return tODO  //TEST2 FOR GIT
+        return tODO  //TES£ FOR GIT
       } )
     })
   }
